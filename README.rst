@@ -94,3 +94,4 @@ To use a configuration thus generated with this builder:
 .. |build status| image:: https://github.com/AndydeCleyre/archbuilder_iosevka/workflows/Build%20and%20upload%20Arch%20Linux%20packages/badge.svg
    :alt: Build Status
    :target: https://github.com/AndydeCleyre/archbuilder_iosevka/actions
+
